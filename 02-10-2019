@@ -1,0 +1,22 @@
+CentOS -> USARLA
+
+History -> comandos usados
+
+Una red docker en tipo bridge: se pueden ver los contenedores entre ellos y tambine puede ver al host(que seria nuestro SO)
+host: puede ver solamente al host( nuestra maquina) 
+none: no puede ver nada, es ciego :(
+
+-p puertodelhost:puertodelcontenedor
+
+Volumenes 
+Es la manera en que docker vincula tu contenedor con tu host, (guarda la informacion en nuestro host), como un carpeta compartida entre el host
+y el contenedor. Y tambien se puede compartir con otros contenedores
+Son faciles de administrar y migrar. 
+
+Para mapearla al crear el contenedor 
+-v rutahost:rutacontenedor
+
+
+docker diff nombrecontainer "Compara tu contenedor con la imagen base A-Add C-Change
+
+Dockerfile para construir una  imagen
