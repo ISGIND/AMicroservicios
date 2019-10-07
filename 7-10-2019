@@ -1,0 +1,17 @@
+para la urls:
+
+post para insertar     /clientes (no ocupar verbos)
+get para consultar
+
+Spring HATEOAS
+Auto descubrimiento de las apis
+Permite al usuario de tu api tener una respuesta que le indique como consultar los datos
+
+Navegando a traves de los links se puede ir describiendo la api 
+
+Spring MVC
+Es para servicios Web y Se ocupa RequestMapping
+
+Atrapar errores
+Manejo de excepciones
+con try cath no es la mejor practica entonces vamos a crear este proyecto para atrapar excepciones
