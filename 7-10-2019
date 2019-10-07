@@ -15,3 +15,15 @@ Es para servicios Web y Se ocupa RequestMapping
 Atrapar errores
 Manejo de excepciones
 con try cath no es la mejor practica entonces vamos a crear este proyecto para atrapar excepciones
+
+Para probar servicios soap SOAP UI
+
+
+BEST PRACTICES REST
+
+No enviar informacion sensible en la url, hay que encriptar
+
+USAR SUSTANTIVOS PARA EXPONER LOS RECURSOS REST
+NO USAR VERBOS, EXPONES INFORMACION
+
+DOCUMENTA LOS RECURSOS
