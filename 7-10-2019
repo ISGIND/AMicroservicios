@@ -27,3 +27,19 @@ USAR SUSTANTIVOS PARA EXPONER LOS RECURSOS REST
 NO USAR VERBOS, EXPONES INFORMACION
 
 DOCUMENTA LOS RECURSOS
+----------------------------------------------------------------------------------------------------------------
+Versionado de proyectos
+13-spring-boot-versioning
+
+-----------------------------------------------------------------------------------
+FILTRADO (jsonignore selectivo)
+
+
+
+-------------------------------------------------------------------------
+EXAMEN qeu hacen
+docker run
+docker image
+docker ps 
+como mapear los puertos de los contenedores 
+docker push
